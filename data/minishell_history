@@ -1,0 +1,11 @@
+ls
+ls
+cd minishell 
+ls
+cd data/
+ls
+exit
+ls
+cd data/
+cd minishell 
+exit
