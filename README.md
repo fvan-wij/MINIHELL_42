@@ -23,6 +23,6 @@ The Linux Programming Interface - Michael Kerrisk
 - And more...
 
 ### Credits
-I/O redirection, signal-handling, process-handling: Flip van Wijk
-Parser, Tokenizer: Dante Hussain
+- I/O redirection, signal-handling, process-handling: Flip van Wijk
+- Parser, Tokenizer: Dante Hussain
 
