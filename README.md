@@ -7,7 +7,7 @@
 1. Download/clone this repository
 2. Cd into the the root of the directory and run 'make'
 3. Let it build...
-4. Run MINIHELL './minishell'
+4. Run Z-Shell './minishell'
 
 
 ### Resources
